@@ -22,11 +22,7 @@ const Technology = () => {
 <br />  
   <p className='content'>Explore these articles to stay informed about the latest developments in tech and how they can impact your life or business.</p>
 </article>
-
     </div>
-
-
   )
 }
-
 export default Technology

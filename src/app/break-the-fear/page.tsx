@@ -10,7 +10,7 @@ const BreakFear = () => {
     <p className='content'>Fear often stems from uncertainty or lack of confidence. However, by confronting your fears and turning them into opportunities for growth, you can build resilience and move forward with confidence.</p>
     
     <h2 className='secondaryHeading'>How to Overcome Fear</h2>
-    <p className='content'>Start by taking small, actionable steps toward your goals. Acknowledge the fear, but don't let it control you. With practice, you'll find that fear can transform into a powerful motivator for change.</p>
+    <p className='content'>Start by taking small, actionable steps toward your goals. Acknowledge the fear, but don't let it control you. With practice, you&apos;ll find that fear can transform into a powerful motivator for change.</p>
     
     <p className='content'>Breaking through fear is the first step toward achieving greatness.</p>
   </article>

@@ -10,7 +10,7 @@ const LifeStyle = () => {
 <article className='article'>
   <h1 className='primaryHeading'>Lifestyle: Balancing Work, Life, and Growth</h1>
   <p className='content'>In the modern world, finding a balance between work and personal life is key to achieving happiness and success. Our lifestyle section explores topics that focus on well-being, productivity, and personal growth. Whether you&apos;s a great day for coding!</p>
-  <p className='content'>You&apos;re striving for work-life harmony or searching for your niche, we've got you covered.</p>
+  <p className='content'>You&apos;re striving for work-life harmony or searching for your niche, we&apos;ve got you covered.</p>
   
   <h2 className='heading1'>Featured Blogs on Lifestyle</h2>
   <ul>

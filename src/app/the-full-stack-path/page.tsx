@@ -10,7 +10,7 @@ const FullStack = () => {
   <p className='content'>HTML, CSS, and JavaScript are the core building blocks of any website. A solid understanding of these technologies is essential for any aspiring full stack developer.</p>
   
   <h2 className='secondaryHeading'>Backend Mastery</h2>
-  <p className='content'>On the backend, you’ll work with databases, server-side languages like Node.js or Python, and tools like Express or Django. These skills help bring dynamic functionality to your projects.</p>
+  <p className='content'>On the backend, you&apos;ll work with databases, server-side languages like Node.js or Python, and tools like Express or Django. These skills help bring dynamic functionality to your projects.</p>
   
   <p className='content'>The full stack path is demanding but offers endless opportunities to build innovative web solutions.</p>
 </article>
