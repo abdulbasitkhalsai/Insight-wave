@@ -9,7 +9,7 @@ const Technology = () => {
     <div>
       <article className='article'>
   <h1 className='primaryHeading'>Technology: Innovation Driving the Future</h1>
-  <p className='content'>Technology is constantly evolving, shaping the world around us. From the rise of artificial intelligence to advancements in web development, staying ahead in tech is crucial for businesses and individuals alike. On this page, you'll find articles and insights that dive into the latest trends and breakthroughs.</p>
+  <p className='content'>Technology is constantly evolving, shaping the world around us. From the rise of artificial intelligence to advancements in web development, staying ahead in tech is crucial for businesses and individuals alike. On this page, you&apos;ll find articles and insights that dive into the latest trends and breakthroughs.</p>
   
   <h2 className='heading1'>Featured Blogs on Technology</h2>
   <ul>
