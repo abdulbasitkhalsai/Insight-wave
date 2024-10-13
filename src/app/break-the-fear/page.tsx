@@ -14,7 +14,6 @@ const BreakFear = () => {
     
     <p className='content'>Breaking through fear is the first step toward achieving greatness.</p>
   </article>
-  
   )
 }
 
